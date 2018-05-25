@@ -1,0 +1,7 @@
+{
+  "TargetFileSuffix":[".go"],
+  "TargetErrorFuncName":["util.GetCommonErr","util.GetErrWithTips"],
+  "FilterFileName":["core"],
+  "ParamsColumnNames":[" 错 误 码 "," 含 义 ","提 示"],
+  "ParamsSplitChar":","
+}
